@@ -9,7 +9,7 @@ function MainScene:ctor()
     --     :align(display.CENTER, display.cx, display.cy)
     --     :addTo(self)
 
-    --精灵
+    --精灵 你去死吧
     local sprite = cc.Sprite:create("sunset.png")
     sprite:setPosition(display.cx,display.cy)
     self:addChild(sprite)
